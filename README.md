@@ -23,8 +23,8 @@ Um teleprompter transparente, sempre visível para o apresentador, mas invisíve
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/invisible_teleprompter.git
-   cd invisible_teleprompter
+   git clone https://github.com/Negamin/TeleInvisiblePrompt.git
+   cd TeleInvisiblePrompt
    ```
 
 2. **Instale as dependências:**
